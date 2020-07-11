@@ -6,4 +6,6 @@ RUN mkdir -p /usr/local/tomcat/appconf/
 COPY *.xml /usr/local/tomcat/appconf/
 CMD ["catalina.sh","run"]
 
+#Added another comment for testing
 #added for testing
+
