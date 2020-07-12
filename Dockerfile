@@ -7,3 +7,4 @@ COPY *.xml /usr/local/tomcat/appconf/
 CMD ["catalina.sh","run"]
 
 #added for testing
+just like that
