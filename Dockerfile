@@ -8,3 +8,4 @@ CMD ["catalina.sh","run"]
 
 #Added another comment for testings
 #added for testing
+Adding new item
