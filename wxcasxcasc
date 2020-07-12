@@ -1,0 +1,63 @@
+[33mcommit 4344457b84eea6c3f455bc2faed73d346b5428ee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: d12f5d7 b72e86f
+Author: Ubuntu <ubuntu@ip-172-31-37-56.ap-south-1.compute.internal>
+Date:   Sun Jul 12 10:59:31 2020 +0000
+
+    new comment
+
+[33mcommit d12f5d76f5137e5eee69da1e3a73a837fb4e1bbf[m
+Author: Ubuntu <ubuntu@ip-172-31-37-56.ap-south-1.compute.internal>
+Date:   Sun Jul 12 10:50:12 2020 +0000
+
+    new comment
+
+[33mcommit b72e86f94d55fd5b9ced338b22c805fd23863246[m
+Author: sheetalnaik <34503363+sheetalnaik@users.noreply.github.com>
+Date:   Sun Jul 12 16:19:24 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit 55cbaaaf118bee3ad4e5fef7e46e908815862088[m
+Author: Ubuntu <ubuntu@ip-172-31-37-56.ap-south-1.compute.internal>
+Date:   Sun Jul 12 10:15:36 2020 +0000
+
+    Comment2
+
+[33mcommit 4377d1c839f8caaf932d4504a82d96a2c8aea5d7[m
+Merge: 08da451 5d6f3bf
+Author: Ubuntu <ubuntu@ip-172-31-37-56.ap-south-1.compute.internal>
+Date:   Sun Jul 12 10:13:45 2020 +0000
+
+    Comment1
+
+[33mcommit 08da4519a04af9d8a53bdcc4bf3a0c3edbe1cfc3[m
+Author: Ubuntu <ubuntu@ip-172-31-37-56.ap-south-1.compute.internal>
+Date:   Sun Jul 12 10:09:29 2020 +0000
+
+    Comment
+
+[33mcommit 5d6f3bf9d1a2ae7130272208a17b250620b8be44[m
+Author: sheetalnaik <34503363+sheetalnaik@users.noreply.github.com>
+Date:   Sun Jul 12 15:38:13 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit 39834f4942b07273f1a636752017f89317bdb585[m
+Author: Ubuntu <ubuntu@ip-172-31-37-56.ap-south-1.compute.internal>
+Date:   Sat Jul 11 15:38:20 2020 +0000
+
+    Adding comment before commit.
+
+[33mcommit 7340b512610cc6b54968a6a27cfbbee0ac75eb8a[m
+Author: sheetalnaik <34503363+sheetalnaik@users.noreply.github.com>
+Date:   Thu Jul 9 12:11:10 2020 +0530
+
+    Update Dockerfile
+    
+    #added for testing
+
+[33mcommit 01e883e1b05743729608d5d0097e8eb2672264bc[m
+Author: Ubuntu <ubuntu@ip-172-31-37-56.ap-south-1.compute.internal>
+Date:   Thu Jul 9 06:14:23 2020 +0000
+
+    Adding files to the new repository
